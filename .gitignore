@@ -1,0 +1,6 @@
+requirements.txt
+env
+myvenv
+.vscode
+.streamlit
+__pycache__
